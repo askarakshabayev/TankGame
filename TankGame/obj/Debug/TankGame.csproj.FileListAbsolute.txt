@@ -1,1 +1,8 @@
 c:\users\a.akshabaev\documents\visual studio 2013\Projects\TankGame\TankGame\bin\Debug\TankGame.exe.config
+C:\Users\a.akshabaev\Documents\Visual Studio 2013\Projects\TankGame\TankGame\bin\Debug\TankGame.exe
+C:\Users\a.akshabaev\Documents\Visual Studio 2013\Projects\TankGame\TankGame\bin\Debug\TankGame.pdb
+C:\Users\a.akshabaev\Documents\Visual Studio 2013\Projects\TankGame\TankGame\obj\Debug\TankGame.csprojResolveAssemblyReference.cache
+C:\Users\a.akshabaev\Documents\Visual Studio 2013\Projects\TankGame\TankGame\obj\Debug\TankGame.Properties.Resources.resources
+C:\Users\a.akshabaev\Documents\Visual Studio 2013\Projects\TankGame\TankGame\obj\Debug\TankGame.csproj.GenerateResource.Cache
+C:\Users\a.akshabaev\Documents\Visual Studio 2013\Projects\TankGame\TankGame\obj\Debug\TankGame.exe
+C:\Users\a.akshabaev\Documents\Visual Studio 2013\Projects\TankGame\TankGame\obj\Debug\TankGame.pdb
