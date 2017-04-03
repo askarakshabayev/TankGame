@@ -15,3 +15,6 @@ C:\Users\Elibay\123\TankGame\TankGame\obj\Debug\TankGame.Properties.Resources.re
 C:\Users\Elibay\123\TankGame\TankGame\obj\Debug\TankGame.csproj.GenerateResource.Cache
 C:\Users\Elibay\123\TankGame\TankGame\obj\Debug\TankGame.exe
 C:\Users\Elibay\123\TankGame\TankGame\obj\Debug\TankGame.pdb
+C:\Users\a_khan\Documents\TankGame\TankGame\bin\Debug\TankGame.exe.config
+C:\Users\a_khan\Documents\TankGame\TankGame\obj\Debug\TankGame.exe
+C:\Users\a_khan\Documents\TankGame\TankGame\obj\Debug\TankGame.pdb
