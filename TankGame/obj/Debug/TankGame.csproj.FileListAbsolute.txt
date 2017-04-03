@@ -6,3 +6,12 @@ C:\Users\a.akshabaev\Documents\Visual Studio 2013\Projects\TankGame\TankGame\obj
 C:\Users\a.akshabaev\Documents\Visual Studio 2013\Projects\TankGame\TankGame\obj\Debug\TankGame.csproj.GenerateResource.Cache
 C:\Users\a.akshabaev\Documents\Visual Studio 2013\Projects\TankGame\TankGame\obj\Debug\TankGame.exe
 C:\Users\a.akshabaev\Documents\Visual Studio 2013\Projects\TankGame\TankGame\obj\Debug\TankGame.pdb
+C:\Users\Elibay\123\TankGame\TankGame\bin\Debug\TankGame.exe.config
+C:\Users\Elibay\123\TankGame\TankGame\bin\Debug\TankGame.exe
+C:\Users\Elibay\123\TankGame\TankGame\bin\Debug\TankGame.pdb
+C:\Users\Elibay\123\TankGame\TankGame\obj\Debug\TankGame.csprojResolveAssemblyReference.cache
+C:\Users\Elibay\123\TankGame\TankGame\obj\Debug\TankGame.Form1.resources
+C:\Users\Elibay\123\TankGame\TankGame\obj\Debug\TankGame.Properties.Resources.resources
+C:\Users\Elibay\123\TankGame\TankGame\obj\Debug\TankGame.csproj.GenerateResource.Cache
+C:\Users\Elibay\123\TankGame\TankGame\obj\Debug\TankGame.exe
+C:\Users\Elibay\123\TankGame\TankGame\obj\Debug\TankGame.pdb
