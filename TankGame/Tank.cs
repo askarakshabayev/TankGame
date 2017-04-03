@@ -35,7 +35,12 @@ namespace TankGame
 
         public void DrawDown(Graphics g)
         {
-
+            Brush a = new SolidBrush(Color.Red);
+            Brush b = new SolidBrush(Color.Green);
+            Brush c = new SolidBrush(Color.Black);
+            g.FillRectangle(b, location.X - length / 2, location.Y - length / 2, length, length);
+            g.FillEllipse(a, location.X - radius / 2, location.Y - radius / 2, radius, radius);
+            g.FillRectangle(c, location.X - gunW / 2, location.Y, gunW, gunH);
         }
 
         public void DrawLeft(Graphics g)
