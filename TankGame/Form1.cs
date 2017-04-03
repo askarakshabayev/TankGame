@@ -27,11 +27,11 @@ namespace TankGame
             StreamReader sr = new StreamReader(@"1.txt");
             string[] s = sr.ReadLine().Split();
             Image wall = Image.FromFile("wall.jpg");
-            foreach (string p in s)
+            /*foreach (string p in s)
             {
-                if (int.Parse(p) == 1)
+                if (int.Parse(p) == 1)*/
                     e.Graphics.DrawImage(wall, 400, 400, 400 , 400);
-            }
+            //}
         }
 
         private void Form1_Load(object sender, EventArgs e)
