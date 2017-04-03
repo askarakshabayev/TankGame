@@ -1,1 +1,10 @@
 c:\users\a.akshabaev\documents\visual studio 2013\Projects\TankGame\TankGame\bin\Debug\TankGame.exe.config
+G:\.Trash-1000\KBTU\2semestr\Github\TankGame\TankGame\bin\Debug\TankGame.exe.config
+G:\.Trash-1000\KBTU\2semestr\Github\TankGame\TankGame\bin\Debug\TankGame.exe
+G:\.Trash-1000\KBTU\2semestr\Github\TankGame\TankGame\bin\Debug\TankGame.pdb
+G:\.Trash-1000\KBTU\2semestr\Github\TankGame\TankGame\obj\Debug\TankGame.csprojResolveAssemblyReference.cache
+G:\.Trash-1000\KBTU\2semestr\Github\TankGame\TankGame\obj\Debug\TankGame.Form1.resources
+G:\.Trash-1000\KBTU\2semestr\Github\TankGame\TankGame\obj\Debug\TankGame.Properties.Resources.resources
+G:\.Trash-1000\KBTU\2semestr\Github\TankGame\TankGame\obj\Debug\TankGame.csproj.GenerateResource.Cache
+G:\.Trash-1000\KBTU\2semestr\Github\TankGame\TankGame\obj\Debug\TankGame.exe
+G:\.Trash-1000\KBTU\2semestr\Github\TankGame\TankGame\obj\Debug\TankGame.pdb
