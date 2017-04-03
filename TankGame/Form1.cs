@@ -22,6 +22,7 @@ namespace TankGame
         private void Form1_Paint(object sender, PaintEventArgs e)
         {
             tank.DrawRight(e.Graphics);
+           // tank.DrawUp(e.Graphics);
         }
     }
 }
