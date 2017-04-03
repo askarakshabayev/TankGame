@@ -11,6 +11,9 @@ namespace TankGame
     class Tank
     {
         public Point location;
+        public int length;
+        public int radius;
+        public int gunW, gunH;
 
         public void DrawUp(Graphics g)
         {
